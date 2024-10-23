@@ -20,6 +20,8 @@ Refer to map.blend for the colouring of prints.
 
 To reduce the number of colour changes, you can material paint every layer above ~1.2mm to a constant colour. The original had a constant colour starting from layer 5.
 
+When colouring, use "split to parts" for the stl files in your slicer. You may need to manually material paint some parts.
+
 ### Print parameters used in the original
 
 - 0.24mm first layer height
@@ -27,3 +29,8 @@ To reduce the number of colour changes, you can material paint every layer above
 - 2 perimeters
 - 5% grid infill
 - 4 bottom layers and 4 top layers
+
+## Reference photos
+
+![PXL_20241023_170257744](https://github.com/user-attachments/assets/a14b4570-d2f5-473f-b598-51849346862c)
+![PXL_20241023_170311664](https://github.com/user-attachments/assets/39473a94-e6a1-49d0-98b1-9eda2494484d)
