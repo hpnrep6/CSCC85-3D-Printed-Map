@@ -16,6 +16,8 @@ The STL files are split to work on a printer that can print 4 materials in one p
 
 Print all building and road files, and as many pins as needed.
 
+BE SURE TO FLIP THE MODELS BY 180 DEGREES SO THAT THE "TOP" OF THE MAP IS ON THE PRINT BED (The bottom layer will become the top surface of the map).
+
 Refer to map.blend for the colouring of prints.
 
 To reduce the number of colour changes and to hold the different coloured pieces together, you will need to ensure that after a layer height of around ~1.2mm, the rest is printed in the same colour. This can be done using material painting in your slicer. The original had a constant colour starting from layer 5.
