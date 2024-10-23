@@ -16,7 +16,7 @@ The STL files are split to work on a printer that can print 4 materials in one p
 
 Print all building and road files, and as many pins as needed.
 
-BE SURE TO FLIP THE MODELS BY 180 DEGREES SO THAT THE "TOP" OF THE MAP IS ON THE PRINT BED (The bottom layer will become the top surface of the map).
+****** Before printing, slip the model by 180 degrees so that the "top" of the map is placed on the print bed (The bottom layer will become the top surface of the map).
 
 Refer to map.blend for the colouring of prints.
 
