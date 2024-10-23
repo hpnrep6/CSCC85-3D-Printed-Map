@@ -18,9 +18,9 @@ Print all building and road files, and as many pins as needed.
 
 Refer to map.blend for the colouring of prints.
 
-To reduce the number of colour changes, you can material paint every layer above ~1.2mm to a constant colour. The original had a constant colour starting from layer 5.
+To reduce the number of colour changes and to hold the different coloured pieces together, you will need to ensure that after a layer height of around ~1.2mm, the rest is printed in the same colour. This can be done using material painting in your slicer. The original had a constant colour starting from layer 5.
 
-When colouring, use "split to parts" for the stl files in your slicer. You may need to manually material paint some parts.
+When colouring, use "split to parts" for the stl files in your slicer. You may need to manually material paint some parts and there are some gaps in between different colours so you will either need to manually fix the mesh in Blender or in your slicer add a shape to fill in the gap.
 
 ### Print parameters used in the original
 
